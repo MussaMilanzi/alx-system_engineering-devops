@@ -17,3 +17,4 @@ Task 15. "Let’s move " moves all files beginning with an uppercase letter to t
 Task 16. "Clean Emacs " deletes all files in the current working directory that end with the character with tidle symbol
 Task 17. "Tree" creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
 Task 18. "Life is a series of commas, not periods" lists all the files and directories of the current directory with commas, slash etc
+Task 19. "File type: School" Creates a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
