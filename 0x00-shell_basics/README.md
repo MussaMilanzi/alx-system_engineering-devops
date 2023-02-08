@@ -5,4 +5,7 @@ Task 3. The long format display current directory contents in a long format
 Task 4. "Hidden files " display current directory contents, including hidden files
 Task 5. "I love numbers" display current directory contents, with user and group IDs displayed numerically and hidden files 
 Task 6. "Welcome" the script creates a directory
-Task 7. "Betty in my first directory" move betty from tmp directory to recently created directory, i cannot name the way it is coz vi doesnot all ampsand 
+Task 7. "Betty in my first directory" move betty from tmp directory to recently created directory, i cannot name the way it is coz vi doesnot all underscore
+Task 8. "Bye bye Betty " delete the file betty 
+Task 9. "Bye bye My first directory" delete my first directory
+Task 10. "Back to the future " change directory to current one
