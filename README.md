@@ -1,1 +1,1 @@
-The projects creates scripts when run perform different functions
+The projects creates scripts when each run perform different functions
