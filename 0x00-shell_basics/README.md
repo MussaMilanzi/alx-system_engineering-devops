@@ -11,3 +11,4 @@ Task 9. "Bye bye My first directory" delete my first directory
 Task 10. "Back to the future " change directory to current one
 Task 11. "Lists" lsts all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.sts all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format
 Task 12. "File type" prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.
+Task 13 "We are symbols, and inhabit symbols " Creates symbolic links
