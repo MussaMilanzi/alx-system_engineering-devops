@@ -13,3 +13,4 @@ Task 11. "Lists" lsts all files (even ones with names beginning with a period ch
 Task 12. "File type" prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.
 Task 13 "We are symbols, and inhabit symbols " Creates symbolic links
 Task 14. "Copy HTML files", copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
+Task 15. "Let’s move " moves all files beginning with an uppercase letter to the directory /tmp/u
