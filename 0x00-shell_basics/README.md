@@ -15,3 +15,4 @@ Task 13 "We are symbols, and inhabit symbols " Creates symbolic links
 Task 14. "Copy HTML files", copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
 Task 15. "Let’s move " moves all files beginning with an uppercase letter to the directory /tmp/u
 Task 16. "Clean Emacs " deletes all files in the current working directory that end with the character with tidle symbol
+Task 17. "Tree" creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
