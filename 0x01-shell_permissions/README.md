@@ -8,3 +8,4 @@ Task 6. The script adds execute permission to the owner and the group owner, and
 Task 7. The script adds execution permission to the owner, the group owner and the other users, to the file hello.
 Task 8. The script sets the permission to the file hello.
 Task 9. The script sets the mode of the file hello.
+Task 10.  The script sets the mode of the file hello the same as olleh’s mode
